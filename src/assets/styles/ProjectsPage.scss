@@ -1,0 +1,103 @@
+// Projects Page Wrapper - صفحة /projects كاملة
+.projects-page-wrapper {
+  min-height: 100vh;
+  padding-top: 80px;
+  transition: all 0.3s ease;
+
+  .projects-page-header {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px 20px 0 20px;
+
+    .back-button {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: linear-gradient(135deg, #5000ca 0%, #8b5cf6 100%);
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.3s ease;
+      font-size: 0.95rem;
+
+      svg {
+        width: 16px;
+        height: 16px;
+        transition: transform 0.3s ease;
+      }
+
+      &:hover {
+        transform: translateX(-4px);
+        box-shadow: 0 6px 20px rgba(80, 0, 202, 0.3);
+
+        svg {
+          transform: translateX(-4px);
+        }
+      }
+
+      &:active {
+        transform: translateX(-2px);
+      }
+
+      span {
+        display: inline-block;
+      }
+
+      @media (max-width: 768px) {
+        padding: 8px 15px;
+        font-size: 0.9rem;
+
+        svg {
+          width: 14px;
+          height: 14px;
+        }
+      }
+    }
+  }
+
+  // على صفحة /projects نفسها مفيش داعي لزرار See More
+  .see-more-container {
+    display: none;
+  }
+}
+
+// See More Button (بيظهر تحت البروجكتين في الهوم)
+.see-more-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+
+  .see-more-btn {
+    background: linear-gradient(135deg, #5000ca 0%, #8b5cf6 100%) !important;
+    color: white !important;
+    padding: 14px 40px !important;
+    font-weight: 600 !important;
+    font-size: 1.05rem !important;
+    border-radius: 8px !important;
+    transition: all 0.3s ease !important;
+    text-transform: capitalize !important;
+    letter-spacing: 0.5px;
+
+    &:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 30px rgba(80, 0, 202, 0.3) !important;
+    }
+
+    svg {
+      margin-left: 8px;
+      transition: transform 0.3s ease;
+    }
+
+    &:hover svg {
+      transform: translateX(4px);
+    }
+
+    @media (max-width: 768px) {
+      padding: 12px 30px !important;
+      font-size: 0.95rem !important;
+    }
+  }
+}

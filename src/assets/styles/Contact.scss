@@ -1,0 +1,96 @@
+.contact_wrapper svg {
+  font-size: 1em;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.contact-form {
+  padding-top: 20px;
+
+  button {
+    float: right;
+    background-color: white;
+    color: #050f0b;
+  }
+
+  button:hover {
+    background-color: #5000ca;
+    color: white;
+  }
+
+  // الحدود بلون رمادي متوسط
+  fieldset {
+    border-color: #808080 !important;
+  }
+  
+  // النص داخل الـ input - رمادي غامق يظهر على أي خلفية
+  .MuiInputBase-input {
+    color: #4a4a4a !important;
+  }
+  
+  // الـ label - رمادي متوسط
+  .MuiInputLabel-root {
+    color: #666666 !important;
+  }
+  
+  // الـ placeholder - رمادي فاتح
+  .MuiInputBase-input::placeholder {
+    color: #999999 !important;
+    opacity: 1;
+  }
+  
+  // الـ helper text
+  .MuiFormHelperText-root {
+    color: #666666 !important;
+  }
+  
+  // لون الـ helper text عند وجود error
+  .MuiFormHelperText-root.Mui-error {
+    color: #f44336 !important;
+  }
+}
+
+label {
+  font-size: 1.2rem;
+  font-family: 'DomaineDispNar-Medium', sans-serif;
+}
+
+.form-flex {
+  display: flex;
+  gap: 15px;
+  padding-bottom: 15px;
+}
+
+.form-flex .MuiFormControl-root {
+  width: 100%;
+}
+
+form {
+  width: 100% !important;
+}
+
+.body-form {
+  width: 100% !important;
+  margin-bottom: 15px !important;
+}
+
+// لون الحدود عند الـ focus - البنفسجي
+.contact-form .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #5000ca !important;
+}
+
+// لون الـ label عند الـ focus - البنفسجي
+.contact-form .MuiInputLabel-root.Mui-focused {
+  color: #5000ca !important;
+}
+
+// لون الحدود عند الـ hover
+.contact-form .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #5000ca !important;
+}
+
+// إصلاح مشكلة الـ autofill في Chrome
+.contact-form .MuiInputBase-input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100px #f5f5f5 inset !important;
+  -webkit-text-fill-color: #4a4a4a !important;
+}
