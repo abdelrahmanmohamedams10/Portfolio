@@ -4,9 +4,9 @@ import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 import Button from '@mui/material/Button';
-import mock07 from '../assets/images/mock07.png';
-import mock08 from '../assets/images/mock08.png';
-import mock09 from '../assets/images/mock09.png';
+// import mock07 from '../assets/images/mock07.png';
+// import mock08 from '../assets/images/mock08.png';
+// import mock09 from '../assets/images/mock09.png';
 import mock10 from '../assets/images/mock10.png';
 import mock11 from '../assets/images/mock11.png';
 import '../assets/styles/Project.scss';

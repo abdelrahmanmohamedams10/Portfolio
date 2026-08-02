@@ -1,5 +1,4 @@
 import React from "react";
-import InstagramIcon  from '@mui/icons-material/Instagram';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EventAvailableIcon from '@mui/icons-material/EventAvailable';
 
