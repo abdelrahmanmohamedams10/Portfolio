@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/abdelrahmansobhy/static/css/main.04d9bdff.css",
-    "main.js": "/abdelrahmansobhy/static/js/main.1f060b1d.js",
-    "static/js/453.e7f01505.chunk.js": "/abdelrahmansobhy/static/js/453.e7f01505.chunk.js",
-    "static/media/Fortnite-On-Site-Tournament-Marketing-Case-Study.pdf": "/abdelrahmansobhy/static/media/Fortnite-On-Site-Tournament-Marketing-Case-Study.67bcb1b4665dd42dac31.pdf",
-    "static/media/mock09.png": "/abdelrahmansobhy/static/media/mock09.40d0e9b9a3bd9f1792e4.png",
-    "static/media/mock10.png": "/abdelrahmansobhy/static/media/mock10.993c8e719385b81713b3.png",
-    "static/media/mock11.png": "/abdelrahmansobhy/static/media/mock11.7fb2c5a93ff64e4faee0.png",
-    "static/media/McLaren-SpeedTail-Case-Study.pdf": "/abdelrahmansobhy/static/media/McLaren-SpeedTail-Case-Study.f219d12cedc5983b32c9.pdf",
-    "static/media/Social Media Audit for G2 E-sport.pdf": "/abdelrahmansobhy/static/media/Social Media Audit for G2 E-sport.fc7c3558e454472654b7.pdf",
-    "static/media/bg-light.png": "/abdelrahmansobhy/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/abdelrahmansobhy/static/media/bg-dark.f420c6b8458af72de935.png",
-    "index.html": "/abdelrahmansobhy/index.html",
-    "main.04d9bdff.css.map": "/abdelrahmansobhy/static/css/main.04d9bdff.css.map",
-    "main.1f060b1d.js.map": "/abdelrahmansobhy/static/js/main.1f060b1d.js.map",
-    "453.e7f01505.chunk.js.map": "/abdelrahmansobhy/static/js/453.e7f01505.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.9c3c34a3.css",
+    "main.js": "/Portfolio/static/js/main.8aed907a.js",
+    "static/js/453.e7f01505.chunk.js": "/Portfolio/static/js/453.e7f01505.chunk.js",
+    "static/media/Fortnite-On-Site-Tournament-Marketing-Case-Study.pdf": "/Portfolio/static/media/Fortnite-On-Site-Tournament-Marketing-Case-Study.67bcb1b4665dd42dac31.pdf",
+    "static/media/mock09.png": "/Portfolio/static/media/mock09.40d0e9b9a3bd9f1792e4.png",
+    "static/media/mock10.png": "/Portfolio/static/media/mock10.993c8e719385b81713b3.png",
+    "static/media/mock11.png": "/Portfolio/static/media/mock11.7fb2c5a93ff64e4faee0.png",
+    "static/media/McLaren-SpeedTail-Case-Study.pdf": "/Portfolio/static/media/McLaren-SpeedTail-Case-Study.f219d12cedc5983b32c9.pdf",
+    "static/media/Social Media Audit for G2 E-sport.pdf": "/Portfolio/static/media/Social Media Audit for G2 E-sport.fc7c3558e454472654b7.pdf",
+    "static/media/bg-light.png": "/Portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "index.html": "/Portfolio/index.html",
+    "main.9c3c34a3.css.map": "/Portfolio/static/css/main.9c3c34a3.css.map",
+    "main.8aed907a.js.map": "/Portfolio/static/js/main.8aed907a.js.map",
+    "453.e7f01505.chunk.js.map": "/Portfolio/static/js/453.e7f01505.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04d9bdff.css",
-    "static/js/main.1f060b1d.js"
+    "static/css/main.9c3c34a3.css",
+    "static/js/main.8aed907a.js"
   ]
 }
