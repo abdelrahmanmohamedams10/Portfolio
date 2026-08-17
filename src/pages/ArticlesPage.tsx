@@ -4,7 +4,7 @@ import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faNewspaper, faCalendar, faUser, faArrowRight, faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import Chip from '@mui/material/Chip';
-import mock13 from '../assets/images/mock13.png';
+import mediaCompanyCover from '../assets/images/media-company-cover.jpeg';
 import '../assets/styles/Articles.scss';
 import '../assets/styles/ArticlesPage.scss';
 
@@ -31,7 +31,7 @@ const articlesData: Article[] = [
     date: "2026-08-17",
     category: ["Esports", "Content Strategy", "Media Strategy"],
     readTime: 6,
-    image: mock13,
+    image: mediaCompanyCover,
     link: "https://www.linkedin.com/pulse/why-every-esports-team-becoming-media-company-abdelrahman-sobhy-uhkie/",
   },
   {
@@ -250,4 +250,3 @@ function ArticlesPage() {
 }
 
 export default ArticlesPage;
-
