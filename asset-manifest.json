@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.9c3c34a3.css",
-    "main.js": "/Portfolio/static/js/main.c6e59c6e.js",
-    "static/js/221.9b6cc974.chunk.js": "/Portfolio/static/js/221.9b6cc974.chunk.js",
+    "main.css": "/Portfolio/static/css/main.5c461c83.css",
+    "main.js": "/Portfolio/static/js/main.216d0a5b.js",
+    "static/js/180.7995cb93.chunk.js": "/Portfolio/static/js/180.7995cb93.chunk.js",
     "static/media/Team-Falcons-CS2-EWC-2026-Not-Done-Yet.pdf": "/Portfolio/static/media/Team-Falcons-CS2-EWC-2026-Not-Done-Yet.21cb180c7ecd15a1a0e6.pdf",
     "static/media/mock13.png": "/Portfolio/static/media/mock13.bfc1927079e8bcbf5a3a.png",
     "static/media/Fortnite-On-Site-Tournament-Marketing-Case-Study.pdf": "/Portfolio/static/media/Fortnite-On-Site-Tournament-Marketing-Case-Study.67bcb1b4665dd42dac31.pdf",
@@ -15,13 +15,11 @@
     "static/media/30-Day Social Media Content Plan T1.pdf": "/Portfolio/static/media/30-Day Social Media Content Plan T1.5a6d8cb135e7f91a1560.pdf",
     "static/media/bg-light.png": "/Portfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/Portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
-    "index.html": "/Portfolio/index.html",
-    "main.9c3c34a3.css.map": "/Portfolio/static/css/main.9c3c34a3.css.map",
-    "main.c6e59c6e.js.map": "/Portfolio/static/js/main.c6e59c6e.js.map",
-    "221.9b6cc974.chunk.js.map": "/Portfolio/static/js/221.9b6cc974.chunk.js.map"
+    "static/media/media-company-cover.jpeg": "/Portfolio/static/media/media-company-cover.961c74c2f1a9931336a5.jpeg",
+    "index.html": "/Portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.9c3c34a3.css",
-    "static/js/main.c6e59c6e.js"
+    "static/css/main.5c461c83.css",
+    "static/js/main.216d0a5b.js"
   ]
 }
