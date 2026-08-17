@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.9c3c34a3.css",
-    "main.js": "/Portfolio/static/js/main.2a98a952.js",
-    "static/js/453.e7f01505.chunk.js": "/Portfolio/static/js/453.e7f01505.chunk.js",
+    "main.js": "/Portfolio/static/js/main.c6e59c6e.js",
+    "static/js/221.9b6cc974.chunk.js": "/Portfolio/static/js/221.9b6cc974.chunk.js",
+    "static/media/Team-Falcons-CS2-EWC-2026-Not-Done-Yet.pdf": "/Portfolio/static/media/Team-Falcons-CS2-EWC-2026-Not-Done-Yet.21cb180c7ecd15a1a0e6.pdf",
+    "static/media/mock13.png": "/Portfolio/static/media/mock13.bfc1927079e8bcbf5a3a.png",
     "static/media/Fortnite-On-Site-Tournament-Marketing-Case-Study.pdf": "/Portfolio/static/media/Fortnite-On-Site-Tournament-Marketing-Case-Study.67bcb1b4665dd42dac31.pdf",
     "static/media/mock09.png": "/Portfolio/static/media/mock09.40d0e9b9a3bd9f1792e4.png",
     "static/media/mock10.png": "/Portfolio/static/media/mock10.993c8e719385b81713b3.png",
@@ -15,11 +17,11 @@
     "static/media/bg-dark.png": "/Portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
     "index.html": "/Portfolio/index.html",
     "main.9c3c34a3.css.map": "/Portfolio/static/css/main.9c3c34a3.css.map",
-    "main.2a98a952.js.map": "/Portfolio/static/js/main.2a98a952.js.map",
-    "453.e7f01505.chunk.js.map": "/Portfolio/static/js/453.e7f01505.chunk.js.map"
+    "main.c6e59c6e.js.map": "/Portfolio/static/js/main.c6e59c6e.js.map",
+    "221.9b6cc974.chunk.js.map": "/Portfolio/static/js/221.9b6cc974.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c3c34a3.css",
-    "static/js/main.2a98a952.js"
+    "static/js/main.c6e59c6e.js"
   ]
 }
