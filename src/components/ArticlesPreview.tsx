@@ -18,7 +18,7 @@ interface Article {
   category: string[];
   readTime: number;
   image: string;
-  link?: string;  // رابط المقال الخارجي (اختياري)
+  link?: string;  
 }
 
 const articlesData: Article[] = [
@@ -95,7 +95,7 @@ const articlesData: Article[] = [
 function ArticlesPreview() {
   const navigate = useNavigate();
   
-  // عرض أول 3 مقالات فقط
+  // Keep the homepage focused; the full article list lives on /articles.
   const previewArticles = articlesData.slice(0, 3);
 
   const formatDate = (dateString: string) => {

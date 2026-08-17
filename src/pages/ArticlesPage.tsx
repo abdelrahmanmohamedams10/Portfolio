@@ -4,6 +4,7 @@ import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faNewspaper, faCalendar, faUser, faArrowRight, faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import Chip from '@mui/material/Chip';
+import mediaCompanyCover from '../assets/images/media-company-cover.jpeg';
 import '../assets/styles/Articles.scss';
 import '../assets/styles/ArticlesPage.scss';
 
@@ -17,10 +18,22 @@ interface Article {
   category: string[];
   readTime: number;
   image: string;
-  link?: string;  // رابط المقال الخارجي (اختياري)
+  link?: string;  
 }
 
 const articlesData: Article[] = [
+  {
+    id: 3,
+    title: "Why Every Esports Team Is Becoming a Media Company",
+    excerpt: "Esports teams are evolving beyond competition into always-on media brands built around stories, creators, communities, and original content.",
+    content: "An exploration of why content, storytelling, and audience ownership are becoming core business functions for modern esports organizations.",
+    author: "Abdelrahman Sobhy",
+    date: "2026-08-17",
+    category: ["Esports", "Content Strategy", "Media Strategy"],
+    readTime: 6,
+    image: mediaCompanyCover,
+    link: "https://www.linkedin.com/pulse/why-every-esports-team-becoming-media-company-abdelrahman-sobhy-uhkie/",
+  },
   {
     id: 1,
     title: "Case Study: Strategic Rise, Capitalization, and Market Disruption of Team Falcons", 
